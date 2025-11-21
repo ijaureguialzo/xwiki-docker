@@ -1,13 +1,3 @@
 # xwiki-docker
 
-```
- _______________________________________
-/ If food be the music of love, eat up, \
-\ eat up.                               /
- ---------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-```
+Configuración de [XWiki](https://xwiki.com/en/) en contenedores Docker.
